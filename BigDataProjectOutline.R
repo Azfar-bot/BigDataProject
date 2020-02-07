@@ -2,7 +2,8 @@
 ### 07.02.2020
 
 # Vector of group member names
-Group_Members <- c('Zachary Sykes', 'Joshua Russell', 'Ellie Sparling', )
+Group_Members <- c('Zachary Sykes', 'Joshua Russell', 'Ellie Sparling', 
+                   'Andrew Gyesi', 'Judith Mbuyi')
 
 # Package import (there will be more)
 library(tidyverse)
